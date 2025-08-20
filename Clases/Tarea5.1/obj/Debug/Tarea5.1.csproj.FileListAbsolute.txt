@@ -1,0 +1,2 @@
+C:\Users\Usuario\Desktop\TareasGithub\POO-Tarea5_1\Clases\Tarea5.1\obj\Debug\Tarea5.1.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\TareasGithub\POO-Tarea5_1\Clases\Tarea5.1\obj\Debug\Tarea5.1.csproj.CoreCompileInputs.cache
